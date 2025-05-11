@@ -2,7 +2,7 @@ import { Button as HeadlessButton } from "@headlessui/react";
 import { clsx } from "clsx";
 import React from "react";
 import Link from "next/link";
-import { motion } from "framer-motion"; 
+import { motion } from "framer-motion";
 
 const styles = {
   base: [
